@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>FLFY Design</title>
+    <link href="https://my-dear-watson.github.io/flfy-site/feed.xml" rel="self" />
+    <link href="https://my-dear-watson.github.io/flfy-site" />
+    <updated>2021-04-30T16:46:18-07:00</updated>
+    <author>
+        <name>Watson</name>
+    </author>
+    <id>https://my-dear-watson.github.io/flfy-site</id>
+
+    <entry>
+        <title>FLFY Design - Launch Post</title>
+        <author>
+            <name>Watson</name>
+        </author>
+        <link href="https://my-dear-watson.github.io/flfy-site/flfy-design-launch-post.html"/>
+        <id>https://my-dear-watson.github.io/flfy-site/flfy-design-launch-post.html</id>
+
+        <updated>2021-04-30T16:46:18-07:00</updated>
+            <summary>
+                <![CDATA[
+                    Just an excited little shih-tzu looking to reinvent the way we dogs express ourselves. More to come! 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Just an excited little shih-tzu looking to reinvent the way we dogs express ourselves. More to come!</p>
+
+            ]]>
+        </content>
+    </entry>
+</feed>
