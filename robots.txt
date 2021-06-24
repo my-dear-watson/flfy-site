@@ -1,3 +1,2 @@
 User-agent: *
 Disallow:
-Sitemap: https://my-dear-watson.github.io/flfy-site/sitemap.xml
